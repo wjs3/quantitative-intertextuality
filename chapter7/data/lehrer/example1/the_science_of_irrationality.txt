@@ -1,0 +1,31 @@
+The Science of Irrationality
+A Nobelist explains our fondness for not thinking
+By JONAH LEHRER
+October 15, 2011
+Here's a simple arithmetic question: "A bat and ball cost $1.10. The bat costs $1 more than the ball. How much does the ball cost?"
+
+The vast majority of people respond quickly and confidently, insisting the ball costs 10 cents. This answer is both incredibly obvious and utterly wrong. (The correct answer is five cents for the ball and $1.05 for the bat.) What's most impressive is that education doesn't really help; more than 50% of students at Harvard, Princeton and the Massachusetts Institute of Technology routinely give the incorrect answer.
+
+Daniel Kahneman, a Nobel Laureate and professor of psychology at Princeton, has been asking questions like this for more than five decades. His disarmingly simple experiments have profoundly changed the way that we think about thinking. While philosophers, economists and social scientists had assumed for centuries that human beings are rational agents, Mr. Kahneman and his scientific partner, the late Amos Tversky, demonstrated that we're not nearly as rational as we like to believe.
+
+When people face an uncertain situation, they don't carefully evaluate the information or look up relevant statistics. Instead, their decisions depend on mental short cuts, which often lead them to make foolish decisions. The short cuts aren't a faster way of doing the math; they're a way of skipping the math altogether.
+
+Although Mr. Kahneman is now widely recognized as one of the most influential psychologists of the 20th century, his research was dismissed for years. Mr. Kahneman recounts how one eminent American philosopher, after hearing about the work, quickly turned away, saying, "I am not interested in the psychology of stupidity."
+
+But the philosopher missed the point. The biases and blind-spots identified by Messrs. Kahneman and Tversky aren't symptoms of stupidity. They're an essential part of our humanity, the inescapable byproducts of a brain that evolution engineered over millions of years.
+
+In Mr. Kahneman's important new book, "Thinking, Fast and Slow," his first work for a popular audience, he outlines the implications of this new model of cognition. What are the most important mental errors that we all make? And can they be overcome?
+
+Consider the overconfidence bias, which drives many of our mistakes in decision-making. The best demonstration of the bias comes from the world of investing. Although many fund managers charge high fees to oversee stock portfolios, they routinely fail a basic test of skill: persistent achievement. As Mr. Kahneman notes, the year-to-year correlation between the performance of the vast majority of funds is barely above zero, which suggests that most successful managers are banking on luck, not talent.
+
+This shouldn't be too surprising. The stock market is a case study in randomness, a system so complex that it's impossible to predict. Nevertheless, professional investors routinely believe that they can see what others can't. The end result is that they make far too many trades, with costly consequences.
+
+And it's not just investors who suffer from this mental flaw. The typical entrepreneur believes that he or she has a 60% chance of success, though less than 35% of small businesses survive more than five years. Meanwhile, CEOs who hold more company stock—taken here as a sign of self-confidence—also tend to make more irresponsible decisions, overpaying for acquisitions and engaging in misguided mergers.
+
+Even consumers are hurt by this bias. A recent survey of American homeowners found that they expected, on average, to spend about $18,500 on remodelling their kitchens. The actual average cost? Nearly $39,000.
+
+We like to see ourselves as a Promethean species, uniquely endowed with the gift of reason. But Mr. Kahneman's simple experiments reveal a very different mind, stuffed full of habits that, in most situations, lead us astray. Though overconfidence may encourage us to take necessary risks—Mr. Kahneman calls it the "engine of capitalism"—it's generally a dangerous (and expensive) illusion.
+
+What's even more upsetting is that these habits are virtually impossible to fix. As Mr. Kahneman himself admits, "My intuitive thinking is just as prone to overconfidence, extreme predictions and the planning fallacy as it was before I made a study of these issues."
+
+Even when we know why we stumble, we still find a way to fall.
