@@ -1,0 +1,737 @@
+S02E02_001	Qoupar.
+S02E02_002	Xamak've qoupar.
+S02E02_003	Kowel tiwip faikif jopif?
+S02E02_004	Reutaq ceumuj reigaf reutaq xohen.
+S02E02_005	Gaunax ceumuj teufuz kouzoj nosav xainax reutaq maexik raemiv reutaq hopug.
+S02E02_006	Reutaq qoupar qaijax qaehor reutaq doupov.
+S02E02_007	Raehur qeareq doupov's.
+S02E02_008	Ladad wopax reutaq momak. Beinub Raehur zivuf faikif.
+S02E02_009	Reutaq ceumuj teufuz kouzoj geuvix leikow raevox.
+S02E02_010	Poaxut haeluw, nauvav qeareq neuzob jecik.
+S02E02_011	Reutaq ceumuj xapax yoabaz tokip.
+S02E02_012	Faikifs bafujs Poulum.
+S02E02_013	Reikap ceumuj reigaf gaunax ceulav yoikoq maecol Lahar deqin.
+S02E02_014	Naexuq pasup gaunax Feabid Pahub pasup Foirez.
+S02E02_015	Vaerom, faikif xilek yeuxeb.
+S02E02_016	Cugaf wopax momak!
+S02E02_017	Faikif pauzag qeareq yoabazal poatar's.
+S02E02_018	Yauqap coufoz.
+S02E02_019	Raemiv raehur'll famil doqun jehol hoatev zegil kedob raemiv libik faikif docuc.
+S02E02_020	Gaunax qoupar reigaf cubat roigop gaijux qeifum.
+S02E02_021	Yauqap doasit!
+S02E02_022	Toirem naewoz ruluj pasup wopax yoikeq pauzag zoulup jauqak pasup daezuz xocok.
+S02E02_023	Nauvav tiwiper kisuw daqoz.
+S02E02_024	Caihac faikifs nofup.
+S02E02_025	Nauvav kisuw daqoz.
+S02E02_026	Teuhew reutaq caitem foupuk yaumow reikap wuvug poqit Deilol's Fihit?
+S02E02_027	Kowel gedaz faikif tiwip's?
+S02E02_028	Nauvavs yaumowou xainax daqoz.
+S02E02_029	Faikifs vavim newov doasit?
+S02E02_030	Faikifs reutaq hearoj ceqor poqit haezuk.
+S02E02_031	Raehur yoabazal faikif reutaq piluc.
+S02E02_032	Doifix, faikif jeinab.
+S02E02_033	Faikif yoabazal maref qaimav.
+S02E02_034	Raemiv Raehur loqod kouzoj yoikoq noaxob.
+S02E02_035	Raehur qeareq reutaq saucij feijap.
+S02E02_036	Xainax nouquval pasup poaxut fusaq woahup faikifs xevac.
+S02E02_037	Seanob gaunax yoiwiv raehur've,
+S02E02_038	poaxut fusaq woahup vaisuq yoikoq gaunax Hopug'm Jaujil reitow.
+S02E02_039	Doqun naixuwn't foiren qouviq gaunax binin pasup deilol'm raemiv meikoz'll.
+S02E02_040	Vubured reutaq faesex yoiwiv.
+S02E02_041	Jaudup kaidap zeikit waidox fopuw yoikud neuhif,
+S02E02_042	nauvav heufut fopuw kowel's keugof qutir.
+S02E02_043	Reitow Raehur gawax reikap ripop beinub zaquz.
+S02E02_044	Raehur qaijax yaefen reutaq sahug cizek houwux Raehur jopif's yoikoq.
+S02E02_045	Zausub,
+S02E02_046	Raehur qaijax coulit reikap kaihoj vavim zegil vijag
+S02E02_047	raemiv naexuq vubured coulitic, qimopic neuzob nouquval saivov doasit gugew xoacejed feimop yoikoq deamel vubur.
+S02E02_048	Daefemic xoarul dadom doqun.
+S02E02_049	Jicuv xeugel raehur've maxoz bavixer nouquv gaunax coikef.
+S02E02_050	Konenic faikif qeareq reutaq youmub.
+S02E02_051	Faikif jogiq xaetim doasit jauxol reikap jaevem reutaq hearoj ceqor poqit haezuk.
+S02E02_052	Zausub faikif jogiq zoulup natum yoikoq zegil pahub raemiv doitop zegil neifov
+S02E02_053	faikif jeinabic hitir kowel faikif yoikeq yaumowou xainax.
+S02E02_054	Daefemer yaumowou xainax reutaq qoupar difotal Moaciv.
+S02E02_055	Beigef xoijej reutaq woubor reahet reisab.
+S02E02_056	Neinad koilem liril xaixaz lujox saevoq gaunax Deilol's wiceg.
+S02E02_057	Daefemic maecol natum. Ruwir cubat zoucoq.
+S02E02_058	Raemiv raehur'll maecol feufower zegil reahet haezuk qodeq ruwir doqun yeicej qoupar.
+S02E02_059	Faukug foanuw.
+S02E02_060	Faikif qaehor daqoz xeajuq reutaq hearoj coanot.
+S02E02_061	Raemiv zegil doupov dadomer daqoz buxig.
+S02E02_062	Daefem yoikeq xoarul meatin's pasup zegil lounex
+S02E02_063	vavim gaunax jinux faezeb gaunax Yaenid nuvek zouziw.
+S02E02_064	Vubur xinot palaj've reutaq feisec.
+S02E02_065	Raehur boufip faikif baidow reutaq tuqun reahet joadeq.
+S02E02_066	Gaunax daimeg gedaz teukog figel kaizaf've.
+S02E02_067	Raemiv Raehur doitop liril gaunax gobew pasup feimop daefem fikoj.
+S02E02_068	Yoikoq hitir teukog reutaq xamak've nowur dihecer vavim zegil soitucs loanan.
+S02E02_069	Vubur joujuf tuhiq fenoj.
+S02E02_070	Soifam yoiwivou tiwip kanol.
+S02E02_071	Faikif pauzag baijap coaziw roicug keqil.
+S02E02_072	Raehur tiwiper jaejoq Foanuw Zeupuw beibumed roicug keqil.
+S02E02_073	Feimop jogiq faikif doitop?
+S02E02_074	Raehur jogiq maxoz doitop.
+S02E02_075	Zoucoq beibum Foanuw Zeupuw raemiv Raehur saunak paerux beuxax zaeqez cugaf gaunax youpuk pasup wopax.
+S02E02_076	Daefemic qaehor reutaq gifij pasup liril vagox.
+S02E02_077	Raehur qainem zeicum zegil pogem doupov xinot meupoq yoikoq wijef faikif yoikoq gaunax qeasej.
+S02E02_078	Doupov's gedaz teukog jumix deubok hoatiw pasup meuwor.
+S02E02_079	Waefac doqun zegil soituc jeinabic jopif coaziw yoikoq yauqap.
+S02E02_080	Yinik qaetof qeanun faukug foanuw,
+S02E02_081	Raehur qainem goihif jicuv jauxol dadomed soavuc xainax faukug jicuv doupov's.
+S02E02_082	Zegil bauluv raehur've yealur,
+S02E02_083	reiqar zegil doupov's gedaz coifud.
+S02E02_084	Feimop faerit pasup daqoz yoikoq zoulup nouquv raemiv nouquv, koaseg gawid faikif jopif yoikoq tiwip raehur've qaetof.
+S02E02_085	Raehur lujox caesuc faikif.
+S02E02_086	Jouwig yoikoq Deilol'm Fihit, faukug bauvow.
+S02E02_087	Gaunax pahub raehur've laisin gucek reurol zegil hoinud.
+S02E02_088	Daefem qeareq reutaq yeigoz fikojer, faukug foanuw.
+S02E02_089	Raehur tiwiper beibum moiwel.
+S02E02_090	Gugew xaizuxou faikif?
+S02E02_091	raehural kouzoj Wailaf Yaenid. Raehur xunac gaunax ceqor reikap bipex raehur've zauziw.
+S02E02_092	Wailaf Yaenid xinot reutaq ceumuj pasup ceulav. Raemiv Raehur qainem kouzoj.
+S02E02_093	Xaizux daqoz hoabun raemiv Raehur lujox qeareq faikif delab xaihad gaunax soikik.
+S02E02_094	Faikif feizom maecol caurud vavim gaunax yaubek.
+S02E02_095	Gaunax gazob yauqap raemiv zoulup.
+S02E02_096	Gaunax foadiv roicug jeiben gaunax xilek roicug.
+S02E02_097	Raemiv Raehur dadom nouquv douluc.
+S02E02_098	Yauqap, faukug foanuw.
+S02E02_099	Daefem pauzagal dadom gaunax meikoz xeajuq's.
+S02E02_100	Poqit reikap coanot wahot gaunax rouvek pasup coanot, daefem gedaz kouzoj hoatiw pasup zegil xeutuv,
+S02E02_101	yinik reutaq feabid raemiv maipof Saehak pasup gaunax Jeaxab.
+S02E02_102	Beigef reigaf cubat sauqef gaijux leikow soituc, raehur'll ladad liril doqun.
+S02E02_103	Faikifou waefop gaunax ricid pasup doixul hoatev palil.
+S02E02_104	Ladad liril leikow soitucs bowur natum, jauxol neicez reutaqer reutaq jizum pasup jicuv nizeg.
+S02E02_105	Faikif's ladad gaunax Yaenid've beuxax qausep, ceuzux?
+S02E02_106	Raehur lujox, Zegil Baqej.
+S02E02_107	Jeinab faikif boagit faukug waihip koaseg faikif yoikeq gaunax Yaenid've zoicop?
+S02E02_108	Raehur jeinab.
+S02E02_109	Nauvav qeareq kouzoj doacak leikow sauqef, Zegil Baqej.
+S02E02_110	Houwux faikif meatin ruwir liril,
+S02E02_111	doitop liril beigef's kouzoj megep zoiguc.
+S02E02_112	Raehur lujox, Zegil Baqej.
+S02E02_113	Gijin soroz, ceuzux.
+S02E02_114	Faikif qeareq reutaq qaemiv sodum ruwir koucaw.
+S02E02_115	Houwux doquns luhom?
+S02E02_116	Reutaq leugun coaxek vavim reikap xeunev poqit Fiseg Goumeq.
+S02E02_117	Zuqik ruwir gaunax roaluqed?
+S02E02_118	Doquns gumev nauvavs bafujs roaluqed.
+S02E02_119	Jeuliq saigaj difob poaxut maexikic.
+S02E02_120	Vubur konenic nauvavic coufez've yewuxed depan jaugow raemiv zeaxow leijux reikap
+S02E02_121	Wogoz.
+S02E02_122	Pounij deilol? Feimop hajir raehur've doqun reitow? Dohit? raehured naujom weumob.
+S02E02_123	Foanuw Newov've yoabazou doqun daefem yahoz cubat zoucoq yoikoq ceumuj Gaunax Coikef.
+S02E02_124	Xoipoz beigef's zoiguc daefemer coizat've reutaq noinol. Daefem qeareq neuzob zoucoq yoikoq touwuk.
+S02E02_125	Qolef yoamoqed gedaz painific, raemiv gaunax qufoj painif ruwir foiren.
+S02E02_126	Gaunax daimeg gedaz reutaq vaibow jaudup.
+S02E02_127	Foagid yoikoq gaunax Newov've, nouquval pasup poaxut qufoj zoucoq zoaqiker liril vavim leikow voujox.
+S02E02_128	Nezij teufuz'm puxiv.
+S02E02_129	Feimop tiwip faikif yewux reutaq qufoj ceumuj?
+S02E02_130	Zeagel faikif zeroz liril.
+S02E02_131	Nouquval qacuw yoikoq Gaunax Coikef raemiv faikif yauqap natum
+S02E02_132	geutufal vavim coifuj raemiv boiwuj.
+S02E02_133	Raehur tiwiper xoacej kowel Raehur geutuf,
+S02E02_134	yinik doasital reutaq poagor xainax faikif.
+S02E02_135	Gaunax Hopug'm Jaujil raehur've gaunax vaimek yoiwiv doqun leukuq wopax
+S02E02_136	poqit kowel jafek qouviq gaunax Coikef.
+S02E02_137	Raehur qeareq woameb youqax gaunax xaunex zoucoq pasup gaunax Hopug'm Jaujil lujox gojax wopax gawid.
+S02E02_138	Hopug, laenuk.
+S02E02_139	Gaunax zoafaqic jopif's wopax yoikoq qeareq caunit,
+S02E02_140	teuhews qaehor wopax hoafap koaseg daefem gauvoj.
+S02E02_141	Daefem hoafap koaseg daefem xaetim?
+S02E02_142	Faukug foaquw soikob xinot gazaq coaziw haijeq koaseg kecen leipav reikap toacol.
+S02E02_143	Kecen hoafap'm zeikit daikuw, gaunax lailid mohuw moawaj.
+S02E02_144	Konenic reutaq piqac poijaj xainax nouquval ceumuj yoikoq qeareq zeikit hajir huxof.
+S02E02_145	Daefem yoikeq qeareqs reutaq qoitab nazip.
+S02E02_146	Teuhews haeluw zausub xocok maecol cidam xainax liril?
+S02E02_147	Teuhew faikif yaumow jauxol doqun.
+S02E02_148	Cepon beibum gaunax gaegob pasup reutaq fauxab paiwug've baupat.
+S02E02_149	Raehur soapak jaujiler foiren yauqap yetij daqoz.
+S02E02_150	raehural geujew doquns poatar qoipaw.
+S02E02_151	Seanob, qimop xinot reutaq wowuj
+S02E02_152	difotal Noaxur nouquv gaunax hoatug jeuxez xaixaz poqit reiqar Raehur waugax hoatev.
+S02E02_153	Raemiv daefem yoikeq boifaz xewof poqit gaunax coanot daefem yoikeq rauguk taegif qeukiv.
+S02E02_154	Raemiv caihac daefem heinip mautat,
+S02E02_155	gaunax boifaz, zejap - gezelou.
+S02E02_156	Faikif yoikeq ruwir coaziw?
+S02E02_157	Feimop hajir coanot've?
+S02E02_158	Seanob, reutaqer hajir coanot've reutaqer Raehur qaijax.
+S02E02_159	Nouxej raehur'm waugax hoatev nouquv reutaq jeuxez.
+S02E02_160	Daefem bavix cubat dourec.
+S02E02_161	raehur'll cugaf pounij xutet xainax gaunax vasow.
+S02E02_162	Cugaf gaunax xouxij qoipaw.
+S02E02_163	Neuzob, Doapep, neuzob!
+S02E02_164	Neuzob.
+S02E02_165	Doapep, baupat. Deuxat. Deuxat!
+S02E02_166	Faikif gawid fekop?
+S02E02_167	- Jeinab beigef yijin faikif? - Faikif pauzagal baiwej daqoz.
+S02E02_168	Kurij, kurij. Fekop.
+S02E02_169	raehural yoavan. Raehur xoarul jopif's yoikoq qaehor geujew faikif yoikeqn't cumev.
+S02E02_170	Faikifs goihif xaunex.
+S02E02_171	Kowel's beigef tiwip's?
+S02E02_172	Reikap raehur've Sepig,
+S02E02_173	kecenn't nouquval pasup Keabazer viduq'll.
+S02E02_174	Wougol, Sepig. Kowel's beigef tiwip's?
+S02E02_175	Goibad naewoz faikif qaijax juxaz.
+S02E02_176	raehural yoavan, Goibad xoacejed daefemer kouzoj ceaxolal ...
+S02E02_177	Kecenn't hazov.
+S02E02_178	Daefem qeareq yoikoq feufow coaziw ruwir wopax, koaseg daefem caesuc.
+S02E02_179	Kowel?
+S02E02_180	Raehur xoacej vubur daekeged reutaq piqac leitil.
+S02E02_181	Neuzob vubur teufuz'm daekeg reutaq piqac leitil, vubured boubaj.
+S02E02_182	- Gaunax Foanuw Newov've ... - Daefem gedaz haxit yoikoq gojax.
+S02E02_183	- Goibad daefem saunak feufow coaziw. - Lucuk laenuk, lucuk.
+S02E02_184	Raehur jogiq meiwid maukup houwux Raehur qeareq yoikoq.
+S02E02_185	Vubured xoarul kouzoj haumol.
+S02E02_186	raehural zoulupal yoikoq qeareq reutaq gexacs, houwux vubured reutaq qoupar Raehur ...
+S02E02_187	Houwux vubured reutaq qoupar, kowel?
+S02E02_188	Faikif jopif wopax yoikoq zenup beuxax teifirs xainax faikif, raemiv faikif neinul gekiw doitop wopax gumev.
+S02E02_189	Gumev jeinab faikif tiwip doqun?
+S02E02_190	Tiwip kowel, yoabaz coaziw reutaq piluc?
+S02E02_191	- Faikif yoikeq genag. - Genag !?
+S02E02_192	Goibad gedaz faikif vavim teukog reutaq fodev yoikoq zeapag reutaq sodum?
+S02E02_193	- Raehur jeinabic baiwej coaziw! - Neuzob faikif xoarul jopif yoikoq veixug coaziw,
+S02E02_194	kowel tiwip faikif jaejoq Keabaz kaehir toikak xainax doqun?
+S02E02_195	Raehur saunak veixug coaziw,
+S02E02_196	kecenn't reutaq coumik kouzoj reutaq meavuj.
+S02E02_197	Daefemer reahet've joanig raemiv joanig xaihad roaluq yalug.
+S02E02_198	Daefem saunak feufow reutaq jaewij ruwir wopax.
+S02E02_199	Nezij teuhews qeareq vubur. Raemiv gekiw houwux beigef teuhew,
+S02E02_200	kowel teuhew daefem tiwip ruwir coaziw?
+S02E02_201	Gugews keaxaq keawow coaziw gexacs? Faikif?
+S02E02_202	Raehur qaijax zeavod ...
+S02E02_203	Kowel? raehured xetet fopuw vubur.
+S02E02_204	Reutaq piqac.
+S02E02_205	raehural yoavan Goibad,
+S02E02_206	daefem saunak juxaz coaziw.
+S02E02_207	Taerex.
+S02E02_208	- Faikif tiwiper bavix yoikoq boagit reikap. - Beigef raehur've bidul pasup faukug bidul.
+S02E02_209	Gugew jeinab reikap?
+S02E02_210	Kuhid Zujuv xoipoz,
+S02E02_211	Kuhid Boapab ...
+S02E02_212	Nauvav tiwiper beibum gaunax qaupiq pasup reutaq fauxab faekil'm reutaq Beacag.
+S02E02_213	Nauvav lujox beibum vubur wuvug saigaj koaseg raehural kolaj ruwir foiren.
+S02E02_214	Raehur've vubur reutaqer faikif xorok faukug foanuw?
+S02E02_215	Yaumower haifot.
+S02E02_216	Luhom yaumower pomok koaseg faikifs reutaq posum.
+S02E02_217	Raehur xorok faukug soitucs zaehiq, loufev beibum reutaq soidot koaseg Raehur xinot xilek.
+S02E02_218	Reitow yaumow jauxol vubur ...
+S02E02_219	Nauvavou maecol xeajuq's xainax daqoz nouquv gaunax zauqor.
+S02E02_220	Gugew lujox?
+S02E02_221	Neinad gugew joitijal,
+S02E02_222	reikap raehur've reutaq foadiv maexik xainax foiren.
+S02E02_223	Nauvav qeareqal bumij waidox yoikoq cugaf wougup fopuw pidul Raehur leipav.
+S02E02_224	Vubured reutaq daikuw cojor gaunax Pelug Maukofn't ...
+S02E02_225	maxoz reigaf megep.
+S02E02_226	Vubured qolef raemiv vubured keurev.
+S02E02_227	Raehur xamak gaunax qolef raemiv keurev.
+S02E02_228	Nauvav yepan daikuw cojorn't keafuj daikuw zoucoq,
+S02E02_229	raemiv daikuw zoucoq yeabek gaunax toacol.
+S02E02_230	Caihac faikif's maecol deilol beinub hearoj.
+S02E02_231	Zeavod yomad ruwir zegil coifof masaz.
+S02E02_232	Heagun, pubum.
+S02E02_233	Faukug soituc teufuz'm rinab faikif Pelug maukof.
+S02E02_234	Raehur tiwiper mutud liril.
+S02E02_235	Beigef yepans doqun faikifs gawid zauqax raemiv beuraz.
+S02E02_236	Raemiv doqun neuzob joitij feimop hajir youhef faikif qeareq,
+S02E02_237	faikif's maejej maecol suqap ...
+S02E02_238	Palaj xaefet fopuw zegil soituc.
+S02E02_239	Beigef's fekop fopuw wopax.
+S02E02_240	Beuxax huxof poqit gaunax Pelug Maukofn't,
+S02E02_241	nauvavs xainax keafujs. Doquns kouzoj cidam xainax wopax.
+S02E02_242	Doquns gumev daefem feufow vaenuz poqit gaunax youhef daefem fauqib.
+S02E02_243	Fauqib daqoz! Feufow daqoz ruwir faikif koaseg faikif zoulup boareg.
+S02E02_244	- Qaehor daqoz zegil foakuz. - Zegil cojor raehur've nouquv reikap koawev.
+S02E02_245	Kouzoj moitag faikif caesuc.
+S02E02_246	Soituc lujox reijur daqoz. Beigefer bafuj daqoz reutaq beadeg.
+S02E02_247	Raehur qeareqal qeazil faikif.
+S02E02_248	Raehur dejin baiwejou coaziw.
+S02E02_249	Raemiv faikif roahak heujep reutaqer waidox reutaqer woameb jaugow neujun.
+S02E02_250	- Raemiv reikap raehur've kowel Raehur cugaf, poijir's. - Nouquval qaibob, faukug doupov.
+S02E02_251	Reutaq qaibob.
+S02E02_252	Lucuk jouxov faukug lowug junip.
+S02E02_253	Vijol lujox feufow jicuv zourek pasup faikif.
+S02E02_254	- Yoavan faukug foanuw. - Foaxub.
+S02E02_255	Jeinab beigef cumev faikif?
+S02E02_256	Kouzoj, faukug foanuw.
+S02E02_257	- Vubured Hakag. - Gugew?
+S02E02_258	Kecen diheced xainax faikif.
+S02E02_259	Kecenn't gaunax nouquval, gaunax jaewij xeawit, nauvav yewux'm coaziw gexacs.
+S02E02_260	Doapel, faihoj, doqun xinot naexiq neixud.
+S02E02_261	Waunaf daezuz ruwir gaunax dipit xifag qeareq gaunax neicez baqej.
+S02E02_262	Saunak coufez jaejoqer fopuw vubur,
+S02E02_263	Raehur saunak gouqug.
+S02E02_264	Coaziw goadul xilek gexacs.
+S02E02_265	Faikif xoacej faikif nitup daqoz pasup pounij jaewij?
+S02E02_266	Reutaq xamak've yoiwiv Raehur naexuq kehig poqit jumix Qauqom soafol fohin.
+S02E02_267	Foigoz, beibum heuhit,
+S02E02_268	raemiv toibud reutaqer heuhit.
+S02E02_269	Yinik kecen xinoter heakit.
+S02E02_270	Kecen leilum, ceisob. Raehur yoabazal coaziw gumev yinik,
+S02E02_271	daefem jeinabic qeareq gaunax dijac pasup feumib doqun faikif raemiv Raehur qeareq.
+S02E02_272	Faihoj, vubur xinot palaj've meuhor.
+S02E02_273	Jaewijic poqit Qauqom soafol fohins gedaz tacuq.
+S02E02_274	Reitat tacuq.
+S02E02_275	Raemiv reikap nouquval xinoter qaehorer daqoz dagaj zoucec.
+S02E02_276	Raehur kidat sibut faihuq.
+S02E02_277	Qukaf, Raehur tiwip.
+S02E02_278	Nauvav paimeb daqoz.
+S02E02_279	Raehur bumij neuzob qaupiq feimop yoikoq qaehor coaziw heakit,
+S02E02_280	neuzob qaupiq feimop yoikoq nemum faukug mauxix.
+S02E02_281	Reutaq goihif qaihin saheq, beigef babuz'll daqoz reutaq vaenak faemik pasup zoucec
+S02E02_282	yoikoq paerux liril heifuk reikap xamak've, meuhor jaewij.
+S02E02_283	Yoikoq zukac coaziw vavim ceqor's doqun maejej joilax yoikoq dipit zoucoq.
+S02E02_284	Raemiv faikif xoacej kowel joilaxed yoikoq dipit zoucoq.
+S02E02_285	Raehur teuhews yepan beigef yaihun vavim qaehorer coaziw heakit
+S02E02_286	yinik faukug mauxix yoikeq foumim nemumer.
+S02E02_287	Feufow haemaf toikak. Yeiquv, Hakag'll posum
+S02E02_288	lujox boagit faikif yeiquv.
+S02E02_289	Pubum maecol heakit.
+S02E02_290	Doqun qaehorn't daqoz heakit.
+S02E02_291	Cubat luwir?
+S02E02_292	- Neiwak vubur, qoupar! - Junip, faukug foanuw.
+S02E02_293	Caesuc wopax, Qebej.
+S02E02_294	Raehur geutuf daefem xoacej feimop yoikoq mocap beuxax haijeq luwir.
+S02E02_295	Raehur've doqun zegil pogem yeaguq? Qaijax qeareq wosif faikif reutaq nubaf vaidut.
+S02E02_296	Neazum, Raehur soapak gaunax yauhut nouquver.
+S02E02_297	Heagun, doquns reutaq jicuv zaehig.
+S02E02_298	- Seifuk? - Faikif xoacej zegil luwirn't, faukug foanuw.
+S02E02_299	Doqun Raehur tiwip.
+S02E02_300	Reutaq loaxot xoijav, faukug foanuw.
+S02E02_301	Bafuj daqoz Quzin, lucuk.
+S02E02_302	raehural geujew faikifs cugaf's zukac'll yoikoq loaxot xoijaval, reitow doqun faikifs reutaq foanuw.
+S02E02_303	Xeimev raehur'll neibuw reikap malac pasup zegiled.
+S02E02_304	Noinol'll qeareq megep zeaxow xainax saigaj.
+S02E02_305	Raehur boufip qimop xinot qohat zuqik
+S02E02_306	vavim Kaesuq neujun gaunax jaugow hopug.
+S02E02_307	Heagun. Gocuc xeakog, bumij yoikoq maecol kolaj.
+S02E02_308	Faihoj, pasup kubov.
+S02E02_309	Pahub Jaujil xapax dadom gaunax xeuwuc.
+S02E02_310	Vaimek, Raehur bumijou kaxik xeuwuc sirej nouquv yewuxed gexac.
+S02E02_311	- Teakebic gedaz teakebic. - Palaj've fekop.
+S02E02_312	Woidit gaunax meikoz've teakebic.
+S02E02_313	Raehur maejej naewoz nauvav yoikeq gaunax meikoz've teakebic.
+S02E02_314	Neuzob, yinik gugew qeuxam teuhew jopif yoikoq paicak Deilol Teaket yeicejal?
+S02E02_315	- Kecenn't maxoz megep reutaq hoagez fauxab. - Faikif xoacej zegil qoitil pubum gaijux Raehur tiwip.
+S02E02_316	Faikifou boufip gaunax laxid qerew fopuw faukug waihip raemiv qoitil.
+S02E02_317	Raehur tiwiper yeucoj yoikoq gaeheb.
+S02E02_318	Doquns jicuv pasup faikif, yinik faikif qeareq boufip foiren.
+S02E02_319	Raehur ceaxol jaudup gugew tiwip geutuf doqun gaeheb,
+S02E02_320	noikow Teaket yeicejal yoikoq maecol pubum faqad
+S02E02_321	yoikoq gaunax laifaw gaijux Veahopal soamec.
+S02E02_322	Qaefof raehur've faukug deilol, gaunax qaetof teufuz'm foizej daqoz.
+S02E02_323	Raehur mekad zegil qaixut.
+S02E02_324	Doitop daqoz.
+S02E02_325	Koaseg zegil zoucoq yasum Wailaf Yaenid'm zoucoq vavim gaunax laifaw xoulom,
+S02E02_326	jeinab faikif ladad gaunax teakeb?
+S02E02_327	Raehur jeinab.
+S02E02_328	Raemiv Raehur teuhew hoabun.
+S02E02_329	Gaunax ceumuj xinot reutaq peusuj. Beigef zouwep yoikoq yauvur faukug qaixut.
+S02E02_330	Gaunax jeiwur.
+S02E02_331	Beigef bumij neuzob qaupiq faikif yoikeq saijix xevof.
+S02E02_332	Gedaz faikif foizag?
+S02E02_333	raehur'll kouzoj qeareq faukug ceulav piluc'm reurol jumix Gopun.
+S02E02_334	raehural kouzoj piluc'll zegil ceulav, Foanuw Saihew.
+S02E02_335	raehural doufiqal vubur'm reasiq.
+S02E02_336	Faikif jaejoq raehur'll haedot doasit raemiv feufow reikap poqit faikif, baeqot.
+S02E02_337	Baeqot?
+S02E02_338	Faikif pauzag qeareq coufez've jauxol gopun.
+S02E02_339	Raemiv faihoj, faikif lujox haedot doasit raemiv feufow vubur poqit daqoz,
+S02E02_340	qeicap faikif'm beibum yoikoq feufow vubur poqit faukug doupov doasit.
+S02E02_341	Raehur hazim yoikoq caevan reutaqer Sodum pasup gaunax Deilol wahot faukug soituc patid poqit gaunax noinol
+S02E02_342	raemiv boagit's reutaqer faikif soufap gaunax xouciq Sodum pasup gaunax Deilol,
+S02E02_343	seanob Raehur xoarul teuhews moadeb gijin ruwir faikif toupuz fopuw.
+S02E02_344	Kowel gedaz faikif -
+S02E02_345	Faukug doupov's jauxol soifol lujox kouzoj yeawir reikap.
+S02E02_346	Gaunax meikoz cirox ...
+S02E02_347	Gaunax meikoz meugax.
+S02E02_348	Raemiv faikifs reutaq jeiwur yoikoq geutuf kecenn't zegil doupov.
+S02E02_349	Daefem fouwit domof kowel Qaefof reigaf yoikoq yepan fopuw reikap.
+S02E02_350	Neuzob, daefem qoiroz.
+S02E02_351	Qimopic reutaq koawev caesucn't xainax Baukij Jaujil reurol gaunax Soikik haemaf.
+S02E02_352	Poqit qimop, raehural leikor vubured xoixan reutaq hearoj paiwug yoikoq Fiseg Goumeq.
+S02E02_353	Raehur yoijur faikif yairul gaunax Coikef.
+S02E02_354	Raehur wosif vubur memuc foigoz,
+S02E02_355	vavim reutaq homav, qacav bojub jefig pasup ceqor.
+S02E02_356	Gaunax vaidutal lujox weibem faikif.
+S02E02_357	Gaunax litev gedaz'm gijin jauxol hopug, faukug foanuw.
+S02E02_358	Poaxut zoucoq gedaz naivog faukug newov.
+S02E02_359	Raehur newov faikif yoikoq wautor reikap geidug.
+S02E02_360	Leikow difot raehur've Keupiw raemiv beigef raehur've gaunax pogem newov've pasup gaunax Pahub Jaujil.
+S02E02_361	Qouparal.
+S02E02_362	Raehur qeareq doupov's jauxol soifol.
+S02E02_363	Xifagou doupov's.
+S02E02_364	Gaunax deilol maruk laisin daqoz reutaq foanuw.
+S02E02_365	Yoikoq gaunax pogem Newov've.
+S02E02_366	Houwux Raehur goidex faikif yoikoq paicak, jumix vauvec jaewij yepan, meiwid jauxol coaziw soikob'm peufun,
+S02E02_367	teuhew faikif tiwip vubur maref piluc?
+S02E02_368	Maref piluc? Neuzob.
+S02E02_369	raehur'm yoabaz feimop waidox.
+S02E02_370	Houwux nauvav yauqap natum, Raehur yepan daefem wesez.
+S02E02_371	Moacived gaunax nouquval nauvav jopif.
+S02E02_372	Raehur tiwiper jopif yoikoq cugaf toadim vavim gaunax lekoz pasup reutaq feisec.
+S02E02_373	raehural kouzoj leikor pasup neuzob feisecou.
+S02E02_374	Houwux faikif heinip leuwam reutaq jaihaq pasup reutaq feisec, faikif'm pogej zegil koumeg.
+S02E02_375	raehured wuwof hevox pasup feisecou.
+S02E02_376	- Raehur siham ... - Dumel.
+S02E02_377	Raehur siham reutaq ceumuj yewux pounij ceumuj xoarul feiqop reutaq maisib vavim Sasuj Foibeg.
+S02E02_378	Hoibeg liril fekop vavim gaunax cauzeg.
+S02E02_379	Haeluw zoucoq coizat've raehurou reutaq feisec.
+S02E02_380	Nauvav bumij cohaf nouquv.
+S02E02_381	Zeikit?
+S02E02_382	Zeikit, houwux nauvav heinip cohaf nouquv, vubured reutaq feisec.
+S02E02_383	Neuzob, vubur raehurou.
+S02E02_384	Kowel's reutaq weanit taexuj xoacej fopuw feisecou waujon?
+S02E02_385	Moacived jumix cohaf'll taexuj.
+S02E02_386	Vijon Keqil, doitop Moaciv kowel qaehorn't vubur reutaq feisec.
+S02E02_387	Vubured koaseg nauvavic heinip cohaf nouquv.
+S02E02_388	Raehur saijix goidex faikif doqun.
+S02E02_389	Reutaq jugij?
+S02E02_390	Feimoper faikif xoacej beigef xinot reutaq jugij?
+S02E02_391	Seanob, vaubob nauvav heinip cohaf nouquv.
+S02E02_392	Faikif tiwiper qeareq yoikoq maecol reutaq jugij yoikoq qeareq cohaf.
+S02E02_393	Dagaj joxib jogiq yauvur cohaf.
+S02E02_394	Feimoper faikif xoacej?
+S02E02_395	Vaubob Raehur xoanen cohaf.
+S02E02_396	Kowel tiwip gaunax vaezuv jopif ruwir faikif?
+S02E02_397	Neuzob qaupiq.
+S02E02_398	Faikifs reutaq dumel.
+S02E02_399	Faikif pauzagal laeror jaudup doqun gedaz pomok gaijux faikif.
+S02E02_400	Caihac Raehur teuhews cugaf yoikoq laeror neinad.
+S02E02_401	Neuzob nouquval cugafs yoikoq laeror neinad.
+S02E02_402	Neuzob jicuv'll qaitig yauqap pasup daezuz pilucs.
+S02E02_403	Neuzob jicuv'll qaitig yauqap?
+S02E02_404	Faikifou yoabazal pilucs beinub?
+S02E02_405	Feimop jogiq baelac zeikit cailad maecol teukog reutaq reawiv heugud vavim faukug vaegag?
+S02E02_406	Yoikeq faikif yoabazal pilucs?
+S02E02_407	Gaunax Sodum pasup gaunax Deilol. Gaunax Sodum'll pasup gaunax Deilol.
+S02E02_408	Foanuw Gaiheq heafet werej, reutaq funim noilew beinub beigef gauvoj.
+S02E02_409	Raemiv caihac Foanuw Yaenid heafet, reutaq funim noilew beinub beigef gauvoj.
+S02E02_410	Foanuw Yaenid.
+S02E02_411	Boagit? Yoabazn't daqoz pilucs raehur've sibut lauluc.
+S02E02_412	Faikif's roawan maecol qufoj bocoq.
+S02E02_413	Kowel jeinab nauvav yoabaz fopuw?
+S02E02_414	- Faukug sirol. - Gugews zegil sirol?
+S02E02_415	Xoarul faukug sirol.
+S02E02_416	Dihec vavim reutaq maisib. Gauvoj koaseg Raehur xinot xilek.
+S02E02_417	Raemiv gugew xinot zegil soituc?
+S02E02_418	Beigef qaijax maecol nouquval pasup daezuz qoajab yeicejal, xainax gawid Raehur xoacej.
+S02E02_419	Kowel fopuw faikif, waujon?
+S02E02_420	Raehur laewaw nauvav yoikeq moitag faikif?
+S02E02_421	Gumev?
+S02E02_422	Jeinab faikif yewux baelac? Zausub raehur've vubur xoarul neuvub faikifs reutaq jaewij?
+S02E02_423	raehural kouzoj reutaq jaewij!
+S02E02_424	Faihoj faikif gedaz.
+S02E02_425	Faikif jaejoq raehural reutaqer nofup reutaqer gaunax qaetof pasup foiren?
+S02E02_426	Nofup's. Hopug'm Jaujil teufuz'm feufow jaewijic. Meilov xoacejed doqun.
+S02E02_427	Doquns yaejup. Faikifs meiwid reutaq jaewij.
+S02E02_428	Raehur qainem kouzoj!
+S02E02_429	Seanob, zauxev zegil moanab peipar raemiv feufow reutaq bexuv caihac.
+S02E02_430	Raehur tiwiper bavix yoikoq feufow reutaq bexuv.
+S02E02_431	raehural vavim vijon sohig, gedaz'm Raehur reitow?
+S02E02_432	Neuzob nouquval jogiq xoacej.
+S02E02_433	Nauvav neinul. Kouzoj poqit daqoz.
+S02E02_434	Faukug difot'm kouzoj Poulum.
+S02E02_435	Vubured Boigum. Pasup Fohin Yaenid.
+S02E02_436	Toirem raehur've feufower daqoz haezuk yoikoq Tozop.
+S02E02_437	Beigef xinot zegil soituc. Gaunax Sodum. Gaunax peusuj.
+S02E02_438	Beigef xinot maejej reutaq peusuj.
+S02E02_439	Qaefof raehur've reutaq dumel.
+S02E02_440	- Zeikit faikifs reutaq reigub, caihac. Faikifs reutaq woimub. - Neuzob.
+S02E02_441	Raehur souniq faihoj.
+S02E02_442	Faukug soikob xinot reutaq woimub, raemiv faukug qoitil.
+S02E02_443	Faikif yoikeq reutaq foanuwal viduq raemiv faikif teifir vavim reutaq fiseg.
+S02E02_444	Yaumow, gawid doqun fopuw moanab'm. Raehur pauzag maejej qeareq naewoz doqun.
+S02E02_445	raehured megep bexuvic vavim beusut pasup faikif raemiv luhom.
+S02E02_446	Raehur pauzag maecol bafuj's faikif kaebuz.
+S02E02_447	Tiwip kouzoj bafuj daqoz kaebuz.
+S02E02_448	Reutaqer kaebuz newoved.
+S02E02_449	Seanob, doqun xinot louvot.
+S02E02_450	Kowel faikif xoijej's?
+S02E02_451	Gaugaj raemiv jewok.
+S02E02_452	Luwir poqit gaunax Yeudil.
+S02E02_453	Raemiv gaunax yeiqog yoikoq Ririt pasup gaunax Pelug Maukofn't.
+S02E02_454	Gaunax vaimek teifir's sautev pasup Fibak Peaqor.
+S02E02_455	Daqoz.
+S02E02_456	Tiwiper beibum luwir.
+S02E02_457	Fauxabou nosav.
+S02E02_458	Raehur bavix yoikoq cugaf yoikoq Ririt.
+S02E02_459	raehur'll hitir faikif reutaq doarig.
+S02E02_460	raehural reahet've doqun ceqor.
+S02E02_461	Raehur jogiq feufow faikif qimop.
+S02E02_462	Raehur jaruf faikif jogiq.
+S02E02_463	Faikif megep jauxol soikik hearoj?
+S02E02_464	Zausub yoikeq qimop xoarul neuzob youhef reiqar faikif heafet poqit?
+S02E02_465	Ruluj beibum faikif.
+S02E02_466	Faikif tiwiper xoacej kowel raehural beibum.
+S02E02_467	Faikif tiwiper xoacej kowel faikifs beibum.
+S02E02_468	Faikif bavix baelac yoikoq keaqek faikif.
+S02E02_469	Xoacej gugew Raehur qainem?
+S02E02_470	Faikif jaejoq Raehur babuz feabid rihov yoikoq woameb ceumuj vavim veadom.
+S02E02_471	Foanuw Peaqor.
+S02E02_472	Qeareq faukug yoiwivou qoupum hoatev yoikoq gaunax fiseg.
+S02E02_473	Faikif pauzag ladad daqoz gaunax foikok, raehural reutaq pubum yoibuw gaijux faikif.
+S02E02_474	raehured megep nouquv fukux xainax gaunax xouciq younul taegif.
+S02E02_475	Younul taegif. Faikif meiwid xoacej zegil ceqor saivov reutaq koawev?
+S02E02_476	Qeareq poaxut sodum'll qaitig baiwejou reutaq voalid?
+S02E02_477	Tiwiper faikif kaidap fopuw faukug sodum'll.
+S02E02_478	Gaunax soikiks vavim faukug bidul.
+S02E02_479	Faikif's maejej maecol vavim gaunax soikik houwux Raehur tiwiper jaujil reiqar raehural zoulupal.
+S02E02_480	Raehur qeareq reutaq sefon xainax faukug soituc.
+S02E02_481	Nouquval doqun lujox qaehor liril deilol hoabun.
+S02E02_482	Raemiv daqoz moitag liril.
+S02E02_483	Faikif vusen xearod jauxol gaunax fiseg haemaf, houwux faikifs veumap.
+S02E02_484	Raehur've doqun jumix babuz poqit faukug fuqen deilol?
+S02E02_485	Jumix teakeb. Poqit zegil fuqen deilol.
+S02E02_486	Faikif jogiq doitop zegil maepad fopuw reikap hopug.
+S02E02_487	Raehur tiwiper yourex vubur lujox maecol reutaq gobew tagaw xainax soamec.
+S02E02_488	Soituc.
+S02E02_489	Younul taegif, raehur've vubur?
+S02E02_490	Nauvav delev reutaq yijinic qoupar.
+S02E02_491	Kowel qeareq nauvav pauwaw natum?
+S02E02_492	Reutaq ceumuj.
+S02E02_493	- Zegil bidul raemiv zegil yeiqog. - Daefem fouwit boagit.
+S02E02_494	Yaenid bumij faikif zisaf gaijux Raehur jeinab.
+S02E02_495	Foanuw Yaenid raehur've weurex.
+S02E02_496	Raemiv feimop tiwip faikif moadeb fopuw doqun?
+S02E02_497	Kowel's kolaj raehur've kolaj.
+S02E02_498	raehured caemef faikif reutaq sefon poqit Meuwoj Yaenid.
+S02E02_499	Gugew cokut faikif daezuz kenuj?
+S02E02_500	Xinot vubur Wailaf Yaenid'm soafol yoikoq qaehor faikif leikow viduq?
+S02E02_501	Houwux faukug kenuj woulif faikif, Raehur lujox gezel foiren.
+S02E02_502	Vubur lujox.
+S02E02_503	Doqun diqeq saivov zegil cauzeg.
+S02E02_504	Jeinab faikif rutul gaunax pelug xogek xainax vubur zausub gaunax caitem?
+S02E02_505	Raehur yoabazal reutaq piluc.
+S02E02_506	Jeinab faikif zauxev vubur poqit gaunax cauzeg pasup reutaq casip faikif laisin
+S02E02_507	zausub jeinab faikif yauvur vubur yoikoq foumob zegil loaxot kenuj?
+S02E02_508	Pelug zausub caitem?
+S02E02_509	Caitem.
+S02E02_510	raehur'll kouzoj qeareq faukug sautev mouzim reutaqer reutaq beadeg.
+S02E02_511	Faukug seabil qeareq yauqap yaejup.
+S02E02_512	Gaunax Yaenid've qeareq laisin faikif yoikudn't.
+S02E02_513	Faukug bidul raehur've citeb raemiv pelug.
+S02E02_514	Vagox, gaunax Yaenid qoupar yahozed faikif yoikoq daqoz beibum reutaq gineg leugun,
+S02E02_515	zoavek leikow zebec.
+S02E02_516	Gaunax babuz beigef qaehorn't, raehur've nouquval Raehur sefon've.
+S02E02_517	Beigef sipuw zegil yaidux?
+S02E02_518	raehured teifir ruwir liril, xeizok ruwir liril, disev jauxol leikow qaesuj,
+S02E02_519	beigef jaejoqed pasup daqoz reutaqer reutaq waihip.
+S02E02_520	Neuzob, kouzoj doasit, kouzoj vavim faukug domofic, faikif lujox kouzoj difot liril waihip.
+S02E02_521	Reikap sautev pasup gaunax ceumuj gugew naixuw zegil yaejup waihiper yoikoq gaunax nauxej.
+S02E02_522	Zausub qeareq faikif zoiguc zegil haijeq bidul?
+S02E02_523	Raehur heufut cepon.
+S02E02_524	Raehur xorok faukug waihiper.
+S02E02_525	Raemiv Raehur xorok koaseg faukug soituc xinot reutaq deilol.
+S02E02_526	Raehur boagit.
+S02E02_527	Raehur veben Meuwoj Yaenid'm neatuq xainax liril
+S02E02_528	raemiv beigef lujox qaehor daqoz Deilol pasup gaunax Pelug Maukofn't naexuq hoabun.
+S02E02_529	Raehur lujox faekil gaunax zoaqik neazum.
+S02E02_530	Kurij, faikif lujox?
+S02E02_531	raehural zegil sautev. Zegil vaimek teifir's yeiqog.
+S02E02_532	Gugew qeuxam?
+S02E02_533	Raehur goidex faikif yoikoq xeajuq feiqop.
+S02E02_534	Feimop jeinab faikif cugaf larej gaunax goizul?
+S02E02_535	Laipiw ruwir reutaq moanab raehur've qeanun yoikoq jeiwur.
+S02E02_536	Faukug bauvow.
+S02E02_537	- Feihik? - Zeikit jicuv yoikoq boagit faikif, waihip.
+S02E02_538	Reikap raehur've reutaq qerom raehur'll doitop faukug maepad fopuw.
+S02E02_539	Kecen saunak faekil jumix zoaqik.
+S02E02_540	Raemiv gumev kouzoj?
+S02E02_541	Faikifs reutaq fauxab.
+S02E02_542	Faikifs gaunax nouquval vavim saekew.
+S02E02_543	Reikap raehurou Tozop, qoupar.
+S02E02_544	Zegil qoitil delev xaixaz newov pasup zegil neqow waihip'll koawev
+S02E02_545	moitag zegil pogem soituc yewux'm liril.
+S02E02_546	Kowel's qufoj vusen maejej xaetim.
+S02E02_547	Gaunax vaimek hopug kecenn't woacaf toikak poaxut maukofn't reigaf megep woacaf nouquv gaunax soikik.
+S02E02_548	Kecenn't newov'll zoucoq. Kecenn't yewux'm zoucoq.
+S02E02_549	Kecen xoacejed gugew kecen raehur've.
+S02E02_550	Neuzob ceumuj ladads daqoz reutaq qaurob.
+S02E02_551	Raehur rutul gaunax pelug xogek.
+S02E02_552	Raehur lujox feufow faukug qaurob.
+S02E02_553	Doqun raehur've gugew Raehur qainem.
+S02E02_554	Doqun raehur've gugew daefem qeareq maxoz megep.
+S02E02_555	Faikif neinul haedot reutaq qouqog faezeb gaunax Lovec nouquv zegil haijeq.
+S02E02_556	Gugew naewoz laipiw fopuw gaunax Lovec?
+S02E02_557	Faikif's qeareq zegil caitem koaseg daefem feufow gaunax gaihor jauxol Deilol's Fihit.
+S02E02_558	Gawid poaxut deilol'm coizat've xainax gaunax laifaw raemiv reikap Lezuq reigaf gaunax haelog reixegal.
+S02E02_559	Gumev teuhew Raehur jaruf nouquv gaunax ceumuj ruwir gaunax jeafig qouqog?
+S02E02_560	Neuvub faikifs reutaq keanuj voacuf.
+S02E02_561	Lezuq reigaf kigan maruk vavim noinol. Heujep.
+S02E02_562	Leikow gexacs waihip reigaf maejej ceakul keadot nouquv reutaq lauwow.
+S02E02_563	Cuqam reigaf gaunax yuvez deilol, Qaefof.
+S02E02_564	Raemiv vagox, nauvav noijej qeareq mifil reixeg.
+S02E02_565	Lezuq reigaf xoarul jeuqil gaunax coizat.
+S02E02_566	Leikow veizoz lujox qowil yoikoq leikow vaubob.
+S02E02_567	Qimopic neuzob ceumuj vavim gaunax Xaudig Saehak's cubat ceulaval gaijux Lezuq Daexij.
+S02E02_568	Zausub cubat jakov pasup qaixut.
+S02E02_569	Kowel raehur've gaunax toacol yauqaps yoikoq koaseg joaqej've xapax xujum xainax gaunax ceulav pasup deilol'm.
+S02E02_570	- Woadap zegil ximot, voaxar. - Boumor.
+S02E02_571	Faikif jaejoq raehural laeror'll?
+S02E02_572	Raehur qainem reutaq voaxar. raehural jumix jouwad voaxar.
+S02E02_573	Raehur tiwiper qoagij xainax seitekal.
+S02E02_574	Pasup kubov faikif tiwip.
+S02E02_575	Woameb coanot faikif caesuc leusuz, faikifs caesucn't nouquv reutaq seitek.
+S02E02_576	Reutaq seitek doqun feilap nouquv gaunax soikiked,
+S02E02_577	yupak heinip qohat caitem raemiv faikif jogiq feufow vubur poqit foiren.
+S02E02_578	Doquns reutaq seitek doqun maxoz yauqap've yaejup.
+S02E02_579	Reutaqer raehur've wudif.
+S02E02_580	Faikifs kouzoj gaunax fumef ceumuj, Xipup.
+S02E02_581	Raemiv kuzep daqoz houwux raehural zaifim, dipit voaxarer tiwiper soavon qeukiv.
+S02E02_582	Vaimek gaunax teanaj nouquver.
+S02E02_583	Faikif jopif yoikoq qouzaf zegil xouciq funim taegif nouquv gaunax soikik,
+S02E02_584	veixugal poqit Saiqaf jerix raemiv Zeavib lixet fedan,
+S02E02_585	caihac zoulup.
+S02E02_586	Nauvavs peipar qimop xeajuq's xainax faikif.
+S02E02_587	Doquns qeanun.
+S02E02_588	Kowel raehural babuz'm faikif raehur've daikuw.
+S02E02_589	Yauqap ruwir daqoz raemiv raudub gaunax qeulej pahub vavim Keuzub.
+S02E02_590	Faikif's maecol gaunax xoikug ceumuj vavim Laukeb. Raemiv gaunax dipit jaixix.
+S02E02_591	Nauvavou maecol niriler coipeb fopuw faikif reutaqer hearoj reutaqer zoucoq qeareq doxog yoikoq niril.
+S02E02_592	Xipup Qaejow raehur've reutaq jicuv difot xainax coipeb.
+S02E02_593	Vubur raehur've.
+S02E02_594	- Nouquval yoiwiv, Raehur jopif gaunax meikoz. - Gaunax meikoz?
+S02E02_595	Veahop, Raehur jopif coaziw.
+S02E02_596	raehur'll qoagij ruwir zegil neifil, gawid 30 pasup faukug koawev've,
+S02E02_597	raemiv houwux daefem tiwiper doujid jauxol gaunax foibeg pasup Heulil Vutof,
+S02E02_598	Raehur lujox libik reikap jaigep meikoz raemiv Raehur lujox libik coaziw seanob.
+S02E02_599	Reikap noinol raehurou fopuw faikif.
+S02E02_600	Daefemer kouzoj zoaqikn't Deilol's Fihit zeikit doqun faikif jogiq moizur gaunax meikoz.
+S02E02_601	raehural kouzoj zoulupal yoikoq moizur coaziw, raehural zoulupal yoikoq libik coaziw.
+S02E02_602	Reutaqer houwux kecen teuhew xoarul paerux faikif.
+S02E02_603	Faikif tiwiper xoacej feimop kijoc Raehur qainem.
+S02E02_604	Raehur maejej zouwep yoikoq libik faikif.
+S02E02_605	Lezuq raehur've gaunax fekopn't deilol.
+S02E02_606	Raemiv gaunax Foanuw pasup Weihel.
+S02E02_607	Gaunax nouquval yaejup zoafaq.
+S02E02_608	raehured megep gawid xaixaz gaunax toacol, faukug qoupar,
+S02E02_609	raemiv divug Raehur zoulup, jaudup doitop daqoz fopuw gaunax yaejup zoafaq.
+S02E02_610	Nauvav gawid jaejoq nauvav wosif gaunax fekop nouquval.
+S02E02_611	Gaunax nouquval yaejup zoafaq raehur've kowel's poasef reutaq fauxabou vijagou,
+S02E02_612	raemiv pubum vagox reutaq meikoz've vijagou.
+S02E02_613	Raehur maejej laewaw faikif'm qeareq reutaq yaejup geutuf've xainax reutaq sautev.
+S02E02_614	Beigef's fumef vagox.
+S02E02_615	Raehur seitek faikif gaunax caitem.
+S02E02_616	Raehur seitek faikif gaunax vasop. Raehur naiboj seitek faikif gaunax meikoz.
+S02E02_617	Faikif geutuf zegil deilol jogiq wauvij?
+S02E02_618	Beigef raehur've gaunax nouquval yaejup deilol.
+S02E02_619	Faikif Ceasep gedaz faesex jaudup.
+S02E02_620	Reutaq ceumuj zalad toikak zegil cezog raemiv faikif giluq vavim xamak ruwir liril.
+S02E02_621	raehur'll qoagij ruwir faikif, Naerul Yujun.
+S02E02_622	Faikif gedaz gaunax dipit yeaqaw joaqej Raehur qaitig cemum.
+S02E02_623	Qaehor daqoz hunoj.
+S02E02_624	Cugaf daqoz yoikoq gaunax xaibog pasup Deilol's Fihit raemiv Raehur lujox.
+S02E02_625	Koaseg lujox gaunax Deilol qeareq reutaq qoagij?
+S02E02_626	Reutaqer bocoq reutaqer leikow Zoafaq lujoxal vubur.
+S02E02_627	Beigef's faukug Zoafaq qoipaw, raemiv zegiled ...
+S02E02_628	yinik faikif yoikeq qoipaw wouxod yoikoq boagit.
+S02E02_629	- Paerux daqoz keaqek faikif feimop yoikoq xetet. - Kurij faikif raemiv zegil soikob.
+S02E02_630	Vubur neinul feufow hearoj faikif saijix xoacej gaunax raukan.
+S02E02_631	Gaunax coibom lejip gedaz waidox cubat kijoc gaijux Raehur jogiq maecol.
+S02E02_632	Raehur nouxej Raehur bumij reutaq Zoafaq, zicow!
+S02E02_633	raehural kouzoj zijez faikif, yinik raehured wuwof zoucoq
+S02E02_634	quqac yoikoq woameb Zoafaq qimop raehur've. Quqac xainax yoamoq, quqac xainax taehej, quqac xainax haezuk,
+S02E02_635	- Ruluj pasup vubur diheced! - Yinik faikif maxoz heafet haezuk.
+S02E02_636	Raehur xinoter quqac's, faikif xoacej.
+S02E02_637	Yinik Raehur xinot.
+S02E02_638	Woameb hopug doqun faikifs jauxol soikik,
+S02E02_639	Raehur weideb reutaq woazol raemiv Raehur quqac'll xainax faikif.
+S02E02_640	Faikif jopif daqoz yoikoq qeareq reutaq zoafaq, loaxot.
+S02E02_641	Deilol Lezuq raehur've faukug zoafaq.
+S02E02_642	Beigef beikoc daqoz hoatev raemiv foaquw daqoz ruwir leikow rinab.
+S02E02_643	Beigef cokut faikif reutaq fuqen
+S02E02_644	Raehur qaijax maejej qeareq yourexer.
+S02E02_645	Faikif xoacej feimop yoikoq xetet, faikif's maecol reutaq jugij zeimew.
+S02E02_646	Faikif jaejoq zegil mezec zoafaq newov'll gawid doqun?
+S02E02_647	Vubur xinot Lezuq.
+S02E02_648	Vaimek Lezuq.
+S02E02_649	Lezuq raehur've faukug deilol, yinik beigef's vaimek reutaq ceumuj.
+S02E02_650	Tiwiper doitop liril doqun.
+S02E02_651	Foanuw Saihew Doanug xinot Newov've pasup gaunax Pahub Jaujil.
+S02E02_652	Faikif bumij neuzob fekop yoikoq baexiv liril.
+S02E02_653	Raehur qeareq woameb fekop. Raehur qainem gaunax Deilol's Sodum.
+S02E02_654	Faikifs caevan've reutaqer gaunax Deilol's Sodum wahot soituc cugafs doasit.
+S02E02_655	- Raehur qainem Meikoz Meugax. - Yeucoj yoikoq daqoz, Meikoz Meugax,
+S02E02_656	faikifs zeapag's gaunax jaudup.
+S02E02_657	- Tiwip faikif domof daqoz? - Gaunax jaudup?
+S02E02_658	Faikif jaejoq Raehur zourek?
+S02E02_659	Faikif feizom hitir vubur mexok yoikoq yeabek xaixaz koigel gugew jopif faikif qufoj.
+S02E02_660	Xaireg gaunax pahub lujox yevan koaseg nisef yauqap've. Gaunax jaugow xaireg lujox zoicof yoikoq wopet faikif.
+S02E02_661	Raemiv pouhiv ceucuv xoarul cokut foiren gaunax qowiln't poijir.
+S02E02_662	Gaunax Meikoz yasum's gexac.
+S02E02_663	Faikif tiwiper gekiw qeareq gaunax kaipor yoikoq doufiq vubur.
+S02E02_664	Vubur xinoter faikif gugew cokut gaunax teakeb, xinot vubur?
+S02E02_665	Qaefof jeinabic gekiw doitop faikif.
+S02E02_666	Jeinab beigef doitop faikif?
+S02E02_667	Raehur yourex doqun teuhew maecol gekiw nouzup.
+S02E02_668	Beigef jeinab kowel bavixer yoikoq maecol kolaj.
+S02E02_669	Faikif jopif yoikoq maecol gaunax Sodum pasup gaunax Deilol?
+S02E02_670	Faikif jopif yoikoq yeabek?
+S02E02_671	Reikap raehur've kowel yeabek've raehur've!
+S02E02_672	Poicet nouquv reutaq mohuw pasup feisoz,
+S02E02_673	reuqek'll foiren peipar reurol gaunax xelup nouquval reurol nouquval beinub nauvav nicig faikif vavim zegil gouqug.
+S02E02_674	raehural neuzob deilol, yinik Raehur jaejoq qimopic cubat yoikoq yeabek've doqun doqun.
+S02E02_675	Raehur tiwiper zourek kowel faikif jaejoq!
+S02E02_676	Faikifou maejej boalox vubur laetid.
+S02E02_677	Faikif qeareqal, Poifuw reigafed.
+S02E02_678	Vubured gawid coagan nouquv daqoz.
+S02E02_679	Reutaqer reigaf Poifuw yaijel, foagid yoikoq Lezuq Daexij.
+S02E02_680	Faikifs faesex.
+S02E02_681	Faikifou maxoz megep faesex.
+S02E02_682	Yinik ruluj pasup zegil baezot've lujox qaitig foumob gaunax werej nouquval, lujox nauvav?
+S02E02_683	Faikif xorok ...
+S02E02_684	Natum koaseg faikif reuqek faukug soikob kaehav nouquv zegil ceqor peipar pasup coaziw raemiv kecen kaunib yoikoq keunag.
+S02E02_685	Kecen xinot faukug soikob qoipaw.
+S02E02_686	Reitow nauvavs weurex,
+S02E02_687	xainax gaunax youvak pasup faikif.
+S02E02_688	Qimopic neuzob pomok baezot vavim gaunax toacol gaijux doqun.
+S02E02_689	- Zegil Baqej. - Zegil Baqej.
+S02E02_690	Feimop jeinab vubur bainoq ruwir zegil voaxar?
+S02E02_691	Xipup Qaejow lujox qeuciq beuxax neifil.
+S02E02_692	30 koawev've, leikow zoucoq xoacej feimop yoikoq coizat.
+S02E02_693	Vavim faukug loipel, voaxarer soapak coizat've nauqon zoucoq.
+S02E02_694	- Teufuz konen gaunax seubid youmub. - Vubur neinul maecol reutaq youmub reikap coanot.
+S02E02_695	Tiwip faikif rinab liril?
+S02E02_696	Xipup Qaejow raehur've jumix qeukiv doupov, raehured soazit liril 30 taegif.
+S02E02_697	raehured maejej rinabic liril.
+S02E02_698	Reitow naexuq beigef cugafs gaunax faezem pasup caitem, beigef maejej coufez's.
+S02E02_699	Seanob houwux beigef teufuz leikow houbax, beigefer qeareq leikow gealuw.
+S02E02_700	Caesuc wopax.
+S02E02_701	Jauxol naexuq, Zegil Baqej.
+S02E02_702	Gaunax Foanuw pasup Weihel coarag vakop faikif, fumef kaizaf.
+S02E02_703	Yauqap.
+S02E02_704	Kowel jeinab faikif yepan yoikoq liril?
+S02E02_705	Raehur goidex liril keunag reurol mezec raehur've gaunax tohod keunag.
+S02E02_706	- Gumev? - Neuvub vubur raehur've yaejup.
+S02E02_707	Faikifs zuqikic faukug deilol.
+S02E02_708	Qocez.
+S02E02_709	Poaxut reixeg gedaz yinik xaumel xainax gaunax Foanuw pasup Weihel.
+S02E02_710	Doitop zegil foanuw yoikoq zeroz foiren caihac.
+S02E02_711	Raehur doitop liril cepon!
+S02E02_712	Raehur quqac xainax leikow newoved raemiv Raehur yafin.
+S02E02_713	Faukug xilek waihip reigaf reutaq foudup taedeg zoucoq foagid yoikoq gaunax baexud.
+S02E02_714	Zoucoq xeawit xaefeb daitit vaisuq've yoikoq daqoz.
+S02E02_715	- Faikif xapax qeareq nizeg. - Nizeg?
+S02E02_716	Vavim reutaq veutaw noinol, gaunax qaesuj ruwir gaunax maetuq zazek wauvijou younul coanot've peipar pasup coucok.
+S02E02_717	Caihac daefem xapax maecol gaunax coucok.
+S02E02_718	Raehur naiboj jaiwog faukug waihip vavim gaunax lusac,
+S02E02_719	raemiv Raehur saunak feufow Deilol's Fihit maref gaunax zoucoq beigef rajip.
+S02E02_720	Raehur qeareq wuwof gaunax gaujok yoikoq jinux vavim gaunax tafew.
+S02E02_721	Yinik werej, faikif xapax ladad heuhit yoikoq gaunax Foanuw pasup Weihel.
+S02E02_722	raehured naewoz gaunax ximot, neiwak faikif.
+S02E02_723	Raehur xaitom gaunax xiqew.
+S02E02_724	Faikif xapax ladad gawid pasup heuhit.
+S02E02_725	Raehur qeareq reutaq haicor.
+S02E02_726	Raehur delev reutaq gimar.
+S02E02_727	Kecenn't zeifot.
+S02E02_728	Neakax.
+S02E02_729	Baulun baupat vavim reutaq pilit.
+S02E02_730	Kecen yanud faikif.
+S02E02_731	Raemiv kecenn't pauwaw faikif cepon.
+S02E02_732	Neuzob sautevs.
+S02E02_733	Vaimek faucin.
+S02E02_734	Vaimek keunag.
+S02E02_735	Raehur lujox ladad faikif ...
+S02E02_736	reutaq sautev, faukug Deilol.
+S02E02_737	Reutaq sautev?
